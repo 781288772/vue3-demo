@@ -23,7 +23,7 @@ const routes: Array<RouteRecordRaw> = [
 
 let process={
     env:{
-        BASE_URL:'/'
+        BASE_URL:'/',
     }
 
 };
